@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=haracedaily's Github&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=haracedaily'sGithub&fontSize=20" />
 
 <img src="https://img.shields.io/badge/JavaScript-FFE880?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
