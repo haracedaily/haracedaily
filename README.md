@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
 
-<table style="width:100%">
+<table style="width:100\%">
   <tr>
     <td>
       
