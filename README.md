@@ -3,7 +3,9 @@
 <table>
   <tr>
     <td>
+      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
+
  </td>
     <td>
 <img src="https://img.shields.io/badge/JavaScript-FFE880?style=flat-square&logo=javascript&logoColor=white"/>
