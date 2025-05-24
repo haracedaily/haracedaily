@@ -57,6 +57,14 @@
     <a href="https://ripe-potato-6b7.notion.site/199cb7b25b63806cb824cac34c385531?v=199cb7b25b6380e4bb44000c5a535989&pvs=4">프로젝트</a>
         </td>
     </tr>
+  <tr>
+    <td>
+      <strong>포트폴리오</strong>
+    </td>
+    <td>
+      <a href="https://portfolio-silk-eight-20.vercel.app/">작업중</a>
+    </td>
+  </tr>
 </table>
 
 </div>
