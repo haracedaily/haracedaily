@@ -33,6 +33,16 @@
 
 ---
 
+## 💻 Tech Stack
+
+| 분야 | 기술 |
+|------|------|
+| **FrontEnd** | HTML, JavaScript, jQuery, CSS, React |
+| **BackEnd** | Java, JSP, Spring, Spring Boot, MyBatis, Thymeleaf, Node.js |
+| **Database** | Oracle, MS SQL, MySQL, Supabase |
+
+---
+
 Feel free to check out my repositories and projects!
 
 
