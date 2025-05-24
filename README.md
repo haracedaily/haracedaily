@@ -2,7 +2,11 @@
 
 <div style="display:grid; grid-templete-columns:repeat(2, 1fr)">
 
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <img src="https://img.shields.io/badge/JavaScript-FFE880?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
