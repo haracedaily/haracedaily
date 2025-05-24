@@ -3,8 +3,7 @@
 <table style="border:none;">
   <tr>
     <td>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
+
 
  </td>
     <td>
@@ -14,10 +13,6 @@
   </tr>
 </table>
 
-
-<p align="center">
-  <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1c1095d9-e747-4dac-8411-aa2a40e825c8/b49931d8-d3b2-4c38-983c-5d08ac3c429d/59c4b93f-28b3-4799-a953-5ab60f5b2a25.png" width="300px" alt="Profile Image"/>
-</p>
 
 <h2 align="center" style="font-family: 'Arial', sans-serif;">👋 About Me</h2>
 
@@ -38,6 +33,8 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif;">💻 Tech Stack</h2>
 
 <div align="center" style="font-family: 'Arial', sans-serif;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
   <tr><td><strong>FrontEnd</strong></td><td>HTML, JavaScript, jQuery, CSS, React</td></tr>
