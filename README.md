@@ -1,41 +1,70 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
+</div>
 
-<table style="border:none;">
-  <tr>
-    <td>
+<h2 style="font-family: 'Arial', sans-serif;">👋 About Me</h2>
 
-
- </td>
-    <td>
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </td>
-  </tr>
-</table>
-
-
-<h2 align="center" style="font-family: 'Arial', sans-serif;">👋 About Me</h2>
-
-<div align="center" style="font-family: 'Arial', sans-serif;">
+<div style="font-family: 'Arial', sans-serif;">
 
 <table>
-  <tr><td><strong>이름</strong></td><td>최준호</td></tr>
-  <tr><td><strong>생년월일</strong></td><td>1992.05.13</td></tr>
-  <tr><td><strong>전화번호</strong></td><td>010-7368-5337</td></tr>
-  <tr><td><strong>이메일</strong></td><td><a href="mailto:nj7001@naver.com">nj7001@naver.com</a></td></tr>
-  <tr><td><strong>GitHub</strong></td><td><a href="https://github.com/haracedaily">github.com/haracedaily</a></td></tr>
+  <tr>
+    <td>
+      <strong>이름</strong>
+    </td>
+    <td>
+      최준호
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>생년월일</strong>
+    </td>
+    <td>
+      1992.05.13
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>전화번호</strong>
+    </td>
+    <td>
+      010-7368-5337
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>이메일</strong>
+    </td>
+    <td>
+      nj7001@naver.com
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>GitHub</strong>
+    </td>
+    <td>
+      <a href="https://github.com/haracedaily/studyList">깃허브 학습코드</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Notion</strong>
+    </td>
+    <td>
+    <a href="https://ripe-potato-6b7.notion.site/17ccb7b25b6380238061d8af723d1fd7?pvs=4">학습과정</a>
+    <br>
+    <a href="https://ripe-potato-6b7.notion.site/199cb7b25b63806cb824cac34c385531?v=199cb7b25b6380e4bb44000c5a535989&pvs=4">프로젝트</a>
+        </td>
+    </tr>
 </table>
 
 </div>
 
----
 
-<h2 align="center" style="font-family: 'Arial', sans-serif;">💻 Tech Stack</h2>
+<h2 style="font-family: 'Arial', sans-serif;">💻 Tech Stack</h2>
 
-<div align="center" style="font-family: 'Arial', sans-serif;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="font-family: 'Arial', sans-serif;">
 <table>
   <tr><td><strong>FrontEnd</strong></td>
     <td>
@@ -50,6 +79,7 @@
   <tr><td><strong>BackEnd</strong></td>
     <td>
       <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/express.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/nodemon-%2376D04B.svg?&style=for-the-badge&logo=nodemon&logoColor=black" />
       <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
@@ -63,13 +93,15 @@
     </td></tr>
 </table>
 
+<h2 style="font-family: 'Arial', sans-serif;">⭐ GitHub Top Lang</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
+    
+
+
 </div>
 
 ---
-
-<p align="center" style="font-family: 'Arial', sans-serif;">
-  Feel free to check out my repositories and contact me for collaboration opportunities!
-</p>
 
 
 <!--
