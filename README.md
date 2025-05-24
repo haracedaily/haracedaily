@@ -14,6 +14,28 @@
   </tr>
 </table>
 
+
+<p align="center">
+  <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1c1095d9-e747-4dac-8411-aa2a40e825c8/b49931d8-d3b2-4c38-983c-5d08ac3c429d/59c4b93f-28b3-4799-a953-5ab60f5b2a25.png" width="300px" alt="Profile Image"/>
+</p>
+
+<h2 align="center">👋 About Me</h2>
+
+---
+
+| 항목 | 내용 |
+|------|------|
+| 이름 | 최준호 |
+| 생년월일 | 1992.05.13 |
+| 전화번호 | 010-7368-5337 |
+| 이메일 | [nj7001@naver.com](mailto:nj7001@naver.com) |
+| GitHub | [github.com/haracedaily](https://github.com/haracedaily) |
+
+---
+
+Feel free to check out my repositories and projects!
+
+
 <!--
 ## Hi there 👋
 **haracedaily/haracedaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
