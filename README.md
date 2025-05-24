@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Wellcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
 <img src="https://img.shields.io/badge/JavaScript-FFE880?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 ## Hi there 👋
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <!--
 **haracedaily/haracedaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
