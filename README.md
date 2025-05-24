@@ -1,20 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
 
-<div style="display:felx;">
-
-<div style="flex: 1; padding: 10px;"> 
-  
+<table>
+  <tr>
+    <td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div style="flex: 1; padding: 10px;">
-  
+ </td>
+    <td>
 <img src="https://img.shields.io/badge/JavaScript-FFE880?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</div>
-
-</div>
+  </td>
+  </tr>
+</table>
 
 <!--
 ## Hi there 👋
