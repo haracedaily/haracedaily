@@ -19,31 +19,39 @@
   <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1c1095d9-e747-4dac-8411-aa2a40e825c8/b49931d8-d3b2-4c38-983c-5d08ac3c429d/59c4b93f-28b3-4799-a953-5ab60f5b2a25.png" width="300px" alt="Profile Image"/>
 </p>
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif;">👋 About Me</h2>
+
+<div align="center" style="font-family: 'Arial', sans-serif;">
+
+<table>
+  <tr><td><strong>이름</strong></td><td>최준호</td></tr>
+  <tr><td><strong>생년월일</strong></td><td>1992.05.13</td></tr>
+  <tr><td><strong>전화번호</strong></td><td>010-7368-5337</td></tr>
+  <tr><td><strong>이메일</strong></td><td><a href="mailto:nj7001@naver.com">nj7001@naver.com</a></td></tr>
+  <tr><td><strong>GitHub</strong></td><td><a href="https://github.com/haracedaily">github.com/haracedaily</a></td></tr>
+</table>
+
+</div>
 
 ---
 
-| 항목 | 내용 |
-|------|------|
-| 이름 | 최준호 |
-| 생년월일 | 1992.05.13 |
-| 전화번호 | 010-7368-5337 |
-| 이메일 | [nj7001@naver.com](mailto:nj7001@naver.com) |
-| GitHub | [github.com/haracedaily](https://github.com/haracedaily) |
+<h2 align="center" style="font-family: 'Arial', sans-serif;">💻 Tech Stack</h2>
+
+<div align="center" style="font-family: 'Arial', sans-serif;">
+
+<table>
+  <tr><td><strong>FrontEnd</strong></td><td>HTML, JavaScript, jQuery, CSS, React</td></tr>
+  <tr><td><strong>BackEnd</strong></td><td>Java, JSP, Spring, Spring Boot, MyBatis, Thymeleaf, Node.js</td></tr>
+  <tr><td><strong>Database</strong></td><td>Oracle, MS SQL, MySQL, Supabase</td></tr>
+</table>
+
+</div>
 
 ---
 
-## 💻 Tech Stack
-
-| 분야 | 기술 |
-|------|------|
-| **FrontEnd** | HTML, JavaScript, jQuery, CSS, React |
-| **BackEnd** | Java, JSP, Spring, Spring Boot, MyBatis, Thymeleaf, Node.js |
-| **Database** | Oracle, MS SQL, MySQL, Supabase |
-
----
-
-Feel free to check out my repositories and projects!
+<p align="center" style="font-family: 'Arial', sans-serif;">
+  Feel free to check out my repositories and contact me for collaboration opportunities!
+</p>
 
 
 <!--
