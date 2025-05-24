@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE880&height=150&section=header&text=Welcome&nbsp;haracedaily's&nbsp;Github&fontSize=20" />
 </div>
 
 <h2 style="font-family: 'Arial', sans-serif;">👋 About Me</h2>
