@@ -97,6 +97,7 @@
     <td>
       <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/mariaDB-003545?&style=for-the-badge&logo=mariadb&logoColor=white" />
       <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
     </td></tr>
 </table>
