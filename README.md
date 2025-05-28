@@ -62,7 +62,7 @@
       <strong>포트폴리오</strong>
     </td>
     <td>
-      <a href="https://portfolio-silk-eight-20.vercel.app/">작업중</a>
+      <a href="https://portfolio-silk-eight-20.vercel.app/">포트폴리오</a>
     </td>
   </tr>
 </table>
