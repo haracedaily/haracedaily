@@ -90,6 +90,7 @@
       <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/express.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/nodemon-%2376D04B.svg?&style=for-the-badge&logo=nodemon&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=white"/>
       <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
       </td></tr>
@@ -99,7 +100,16 @@
       <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/mariaDB-003545?&style=for-the-badge&logo=mariadb&logoColor=white" />
       <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/MsSql-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
     </td></tr>
+  <tr><td><strong>IDE</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  </td>
+  </tr>
 </table>
 
 <h2 style="font-family: 'Arial', sans-serif;">⭐ GitHub Top Lang</h2>
