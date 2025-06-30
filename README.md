@@ -82,6 +82,8 @@
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/thymeleaf-%23005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white" />
       </td>
   </tr>
@@ -93,6 +95,7 @@
       <img src="https://img.shields.io/badge/-Nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=white"/>
       <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
       </td></tr>
   <tr><td><strong>Database</strong></td>
     <td>
