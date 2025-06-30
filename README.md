@@ -117,7 +117,7 @@
 
 <h2 style="font-family: 'Arial', sans-serif;">⭐ GitHub Top Lang</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/haracedaily/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haracedaily)](https://github.com/haracedaily)
     
 
 
