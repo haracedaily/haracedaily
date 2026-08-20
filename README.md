@@ -36,7 +36,7 @@
       <strong>이메일</strong>
     </td>
     <td>
-      nj7001@naver.com
+      chj0513a@gmail.com
     </td>
   </tr>
   <tr>
