@@ -70,6 +70,20 @@
 </div>
 
 
+<h2 style="font-family: 'Arial', sans-serif;">📌 Projects</h2>
+
+**[NEXT — AI 기반 개발자 취업역량 진단 서비스](https://github.com/8teamNext)**
+
+**[StarBus — 대중교통](https://github.com/haracedaily/publicTraffic)**
+
+**[IceCare — 제빙기 청소 관리.청소기사vers](https://github.com/haracedaily/cleaning_node)**
+
+**[IceCare — 제빙기 청소 관리.관리자vers](https://github.com/haracedaily/ice_care_admin)**
+
+**[IceCare — 제빙기 청소 관리.클라이언트vers](https://github.com/haracedaily/renew_ice_clean)**
+
+
+
 <h2 style="font-family: 'Arial', sans-serif;">💻 Tech Stack</h2>
 
 <div style="font-family: 'Arial', sans-serif;">
@@ -119,6 +133,10 @@
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haracedaily)
 
+
+<h2 style="font-family: 'Arial', sans-serif;">⭐ GitHub Grass</h2>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
