@@ -72,15 +72,13 @@
 
 <h2 style="font-family: 'Arial', sans-serif;">📌 Projects</h2>
 
-**[NEXT — AI 기반 개발자 취업역량 진단 서비스](https://github.com/8teamNext)**
+**[NEXT — AI 기반 개발자 취업역량 진단 서비스](https://github.com/8teamNext)** | 
 
-**[StarBus — 대중교통](https://github.com/haracedaily/publicTraffic)**
+**[StarBus — 대구버스정보서비스](https://github.com/haracedaily/publicTraffic)** | 
 
-**[IceCare — 제빙기 청소 관리.청소기사vers](https://github.com/haracedaily/cleaning_node)**
-
-**[IceCare — 제빙기 청소 관리.관리자vers](https://github.com/haracedaily/ice_care_admin)**
-
-**[IceCare — 제빙기 청소 관리.클라이언트vers](https://github.com/haracedaily/renew_ice_clean)**
+**[IceCare — 청소기사vers](https://github.com/haracedaily/cleaning_node)** | 
+**[IceCare — 관리자vers](https://github.com/haracedaily/ice_care_admin)** | 
+**[IceCare — 클라이언트vers](https://github.com/haracedaily/renew_ice_clean)**
 
 
 
