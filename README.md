@@ -17,22 +17,6 @@
   </tr>
   <tr>
     <td>
-      <strong>생년월일</strong>
-    </td>
-    <td>
-      1992.05.13
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>전화번호</strong>
-    </td>
-    <td>
-      010-7368-5337
-    </td>
-  </tr>
-  <tr>
-    <td>
       <strong>이메일</strong>
     </td>
     <td>
